@@ -1,0 +1,3 @@
+rootProject.name = '350_F24_TM1'
+
+include 'EnrollmentProjection'
